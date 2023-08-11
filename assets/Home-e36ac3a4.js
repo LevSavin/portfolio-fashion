@@ -1,0 +1,1 @@
+import{d as e,_ as o,o as s,c as t,a as n}from"./index-786124d4.js";const a=e({name:"Home"}),c=n("section",{class:"section"},"123",-1),r=[c];function i(_,p,d,f,l,m){return s(),t("div",null,r)}const h=o(a,[["render",i],["__file","D:/OpenServer/domains/portfolio/portfolio-fashion/src/pages/Home.vue"]]);export{h as default};
